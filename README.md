@@ -5,6 +5,11 @@
 # Support 
 - [Support](https://t.me/zkusagisohbet) Telegram Support Grub .
 
+# Owner 
+Support 
+- [Owner 1 ](https://t.me/samilben) Telegram hesabı 
+
+- [Owner 2 ](https://t.me/TESKlLATSAHlP) Telegram hesabı
 
 ### ⏳ Genel Komutlar
 - `/oynat` •> **ɪsᴛᴇᴅɪɢɪɴ sᴀʀᴋɪʏɪ ᴏʏɴᴀᴛ**
